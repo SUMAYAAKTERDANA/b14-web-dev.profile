@@ -1,0 +1,8 @@
+nav{background-color: #faa1a1;
+display: flex;
+justify-content: space-between;
+}
+ul{display: flex;
+justify-content: space-between;
+list-style: none;
+gap: 10px;}
